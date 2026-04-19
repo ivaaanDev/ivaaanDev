@@ -4,7 +4,7 @@
 Enfocado en la lógica de programación rigurosa, la arquitectura de software y la resolución de problemas complejos. Construyo soluciones escalables integrando hardware y software, con un énfasis fuerte en la eficiencia de bases de datos y la documentación técnica estructurada.
 
 <h3 align="left">🛠️ Stack Tecnológico:</h3>
-<p align="left">
+<p align="justify">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
